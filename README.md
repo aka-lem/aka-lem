@@ -1,4 +1,5 @@
-### Hellooo!
+### Hellooo! 
+- I'm currently a compsci studennt
 
 <!--
 **tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

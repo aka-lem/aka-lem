@@ -1,6 +1,6 @@
 ### Hellooo! 
 - compsci student
-- comfortable with python and java development
+- comfortable with python and java development!
 
 <!--
 **tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

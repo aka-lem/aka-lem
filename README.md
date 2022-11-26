@@ -1,7 +1,7 @@
 ### Hellooo! 
 - compsci student
 - comfortable with python and java development!
-- i also like data :)
+- i also like data and games :)
 
 <!--
 **tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

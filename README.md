@@ -1,7 +1,8 @@
 ### Hellooo! I'm Taylor!
-- compsci student
-- comfortable with python and java development!
-- i also like data and games :)
+- Compsci student
+- Comfortable with python and java development!
+- Currently learning more about working with Data and Machine Learning
+- I also like art, journaling, and games :)
 
 <!--
 **tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

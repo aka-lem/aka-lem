@@ -2,7 +2,7 @@
 - Compsci student
 - Comfortable with python and java development!
 - Currently learning more about Data and Machine Learning
-- I also like art, journaling, and games :)
+- I also like journaling, crochet, and games :)
 
 <!--
 **tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

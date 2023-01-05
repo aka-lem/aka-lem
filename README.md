@@ -1,4 +1,4 @@
-### Hellooo! 
+### Hellooo! I'm Taylor!
 - compsci student
 - comfortable with python and java development!
 - i also like data and games :)

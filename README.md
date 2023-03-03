@@ -1,7 +1,6 @@
 ### Hellooo! I'm Taylor!
 - Compsci student
-- Comfortable with python and java development!
-- Currently learning more about Data Science and Machine Learning
+- Python and java development
 - I also like journaling, crocheting, and games :)
 
 <!--

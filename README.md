@@ -1,6 +1,6 @@
 ### Hellooo! I'm Taylor!
-- Compsci student
-- Python and java development
+- BS in Computer Science
+- Python, Java, Javascript, C#
 - I also like journaling, crocheting, and games :)
 
 <!--

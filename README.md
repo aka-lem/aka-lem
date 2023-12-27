@@ -49,26 +49,15 @@ I am an aspiring Fullstack/Backend engineer
 </div>
 
 <!--
-**tmtrinidad/tmtrinidad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 To show top langs: (was not showing correctly on profile- leave out for now)
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmtrinidad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
 ---
 
-Badges taken from [Shields.io](https://shields.io/)\
+Badges from [Shields.io](https://shields.io/)\
 Language/Tool Icons from [DevIcons Github repo](https://github.com/devicons/devicon/tree/master)

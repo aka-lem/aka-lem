@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/taylor-trinidad-31097b205">
+  <a href="https://www.linkedin.com/in/taylor-trinidad-31097b205">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

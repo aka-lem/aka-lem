@@ -22,7 +22,7 @@
 
 ---
 ### 👩‍💻 About Me: 
-I am an aspiring Fullstack/Backend engineer
+I am a Fullstack/Backend engineer!
 - I am a recent graduate with a B.S in Computer Science
 - I love learning new things
 - In my free time I enjoy journaling, TFT, creating projects with friends, and designing games

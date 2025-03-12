@@ -2,12 +2,6 @@
   <img src= "https://media.giphy.com/media/0aWsEbiw5lD6cGa6Hq/giphy.gif" style="width:200px;height:150px;"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/taylor-trinidad-31097b205">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div id="profile views" align="center">
   <img src="https://komarev.com/ghpvc/?username=tmtrinidad&style=flat-square&color=blue" alt=""/>
 </div>

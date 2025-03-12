@@ -22,10 +22,10 @@
 
 ---
 ### 👩‍💻 About Me: 
-I am a Fullstack/Backend engineer!
-- I am a recent graduate with a B.S in Computer Science
+I like to type.
+- B.S in CS
 - I love learning new things
-- In my free time I enjoy journaling, TFT, creating projects with friends, and designing games
+- In my free time I enjoy journaling, drawing, TFT, creating projects with friends, and designing games
 
 ---
 ### 🛠️ Languages and Tools :
